@@ -16,7 +16,7 @@ from telegram.ext import (
 #  ✏️  CONFIGURAÇÕES — EDITE AQUI
 # ============================================================
 BOT_TOKEN    = "8282963024:AAHKzOttpSiHm5YzsPB-wVAlGMnCtU7FcJM"
-ADMIN_ID     = 123456789          # << seu ID (pegue no @userinfobot)
+ADMIN_ID     = 7398012729    # << seu ID (pegue no @userinfobot)
 GRUPO_VIP    = "https://t.me/msplataformas"
 
 # ─────────────────────────────────────────────────────────────
@@ -24,9 +24,9 @@ GRUPO_VIP    = "https://t.me/msplataformas"
 #      Sandbox:  começa com $aact_...YWRhZjY0Zjg...
 #      Producao: mesma chave, só trocar a URL abaixo
 # ─────────────────────────────────────────────────────────────
-ASAAS_API_KEY     = "COLE_SUA_API_KEY_AQUI"
+ASAAS_API_KEY     = "$aact_hmlg_000MzkwODA2MWY2OGM3MWRlMDU2NWM3MzJlNzZmNGZhZGY6OjEwMzFhNzJlLWVhNDQtNDEzZS1iYjUyLWZlYTY3Y2JkYTI0ODo6JGFhY2hfODgwYjE3ZGEtZDJmMi00NTEyLWI5OTctODczYzVkNDIxZWFh"
 ASAAS_BASE_URL    = "https://sandbox.asaas.com/api/v3"   # troque para https://api.asaas.com/api/v3 em producao
-ASAAS_CUSTOMER_ID = "COLE_SEU_CUSTOMER_ID_AQUI"          # cus_000000000000
+ASAAS_CUSTOMER_ID = "98eb6dad-4290-42c2-953c-e9ff0b224140"          # cus_000000000000
 
 # Planos
 PLANOS = {
